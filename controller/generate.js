@@ -147,8 +147,6 @@ export default async ({ test262Rev, beganAt }) => {
     "import-defer": 99,
     // https://github.com/tc39/proposal-canonical-tz
     "canonical-tz": 99,
-    // https://github.com/tc39/proposal-upsert
-    "upsert": 99,
     // https://github.com/tc39/proposal-immutable-arraybuffer
     "immutable-arraybuffer": 99,
     // https://github.com/tc39/proposal-nonextensible-applies-to-private
@@ -162,6 +160,7 @@ export default async ({ test262Rev, beganAt }) => {
     "json-parse-with-source": 99,
     "Math.sumPrecise": 99,
     "uint8array-base64": 99,
+    "upsert": 99,
 
     // ES2025
     "Float16Array": 16,
